@@ -14,8 +14,8 @@ print(f"Pressione '{stop_key}' para começar")
 executando = False
 
 # Defina os dois pontos entre os quais o mouse deve clicar
-point1 = (1823, 620)
-point2 = (1823, 350)
+point1 = (0, 620)
+point2 = (0, 350)
 
 # Defina o delay entre os cliques
 click_delay = 0.01
